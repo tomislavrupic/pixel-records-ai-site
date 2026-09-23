@@ -19,3 +19,5 @@ The test deployment is intentionally self-contained in `index.html` to minimise 
 Once approved, migrate into:
 
 `https://tomislav-rupic.com/pixelrecords/`
+
+_Last test deployment trigger: 2026-09-23._
